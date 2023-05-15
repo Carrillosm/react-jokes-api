@@ -1,0 +1,36 @@
+#root{
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size:30px;
+  border: 3px solid black;
+  width:20em;
+  height:10em;
+  border-color:rgb(140, 142, 166);
+  margin-top: 5em;
+  margin-left:15em;
+ 
+  
+
+}
+
+
+
+#button{
+  background-color:rgb(140, 142, 166);
+  border:1px solid lightgray;
+  border-radius:4px;
+  font-family: 'Nunito', sans-serif;
+  color:black;
+  margin-top:4em;
+  margin-left:37em;
+  padding:10px
+  
+  
+}
+
+.jokes{
+  width:600px;
+  height:200px;
+  font-size-adjust:initial;
+  
+}
